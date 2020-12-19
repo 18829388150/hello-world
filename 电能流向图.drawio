@@ -1,121 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2020-12-19T10:00:50.350Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="l-BUkUjdwhcPDlWL8EV1" version="14.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-19T10:02:09.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="Ph0eA8C2_TacDtB85p4D" version="14.0.5" type="github">
   <diagram id="zFiF9Op-mUOR3EBwvule" name="Page-1">
     <mxGraphModel dx="782" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-18">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="60" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-25" value="太阳能给电网馈电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-22">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-25" value="太阳能给电网馈电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-22">
           <mxGeometry x="0.2089" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-4">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-45" value="电池给电网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-44">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-45" value="电池给电网" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-44">
           <mxGeometry x="-0.32" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-48" value="电池给负载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-4" target="paRQzdsvZ5kCJrLPlrh8-5">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-48" value="电池给负载" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-4" target="paRQzdsvZ5kCJrLPlrh8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-4" value="battery电池" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-4" value="battery电池" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-5" value="load负载" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-5" value="load负载" style="whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="1" target="paRQzdsvZ5kCJrLPlrh8-5">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;fontStyle=1" edge="1" parent="1" target="paRQzdsvZ5kCJrLPlrh8-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="141" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-34" value="太阳能给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-32">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-34" value="太阳能给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-32">
           <mxGeometry x="-0.25" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="160" as="sourcePoint" />
             <mxPoint x="340" y="359" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-41" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-39">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-41" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-39">
           <mxGeometry x="0.2167" relative="1" as="geometry">
             <mxPoint y="-41" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-18" value="&lt;span&gt;Inverter逆变器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-18" value="&lt;span&gt;Inverter逆变器&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="260" width="100" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-18" target="paRQzdsvZ5kCJrLPlrh8-31">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-18" target="paRQzdsvZ5kCJrLPlrh8-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="79.5" as="sourcePoint" />
             <mxPoint x="520" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-27" value="太阳能给电网馈电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-26">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-27" value="太阳能给电网馈电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-26">
           <mxGeometry x="0.2089" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-29" value="" style="endArrow=classic;html=1;exitX=1.025;exitY=0.863;exitDx=0;exitDy=0;entryX=0;entryY=0.863;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-18">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-29" value="" style="endArrow=classic;html=1;exitX=1.025;exitY=0.863;exitDx=0;exitDy=0;entryX=0;entryY=0.863;entryDx=0;entryDy=0;fillColor=#0050ef;strokeColor=#001DBC;exitPerimeter=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="120" y="100" as="sourcePoint" />
             <mxPoint x="270" y="98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-33" value="太阳能给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-29">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-33" value="太阳能给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-29">
           <mxGeometry x="-0.1417" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-4">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-30" target="paRQzdsvZ5kCJrLPlrh8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-36" value="pv给电池充电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-35">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-36" value="pv给电池充电" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-35">
           <mxGeometry x="0.0815" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-30" value="&lt;span&gt;pv太阳能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-30" value="&lt;span&gt;pv太阳能&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="40" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-31" target="paRQzdsvZ5kCJrLPlrh8-18">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-31" target="paRQzdsvZ5kCJrLPlrh8-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-40" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-38">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-40" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-38">
           <mxGeometry x="0.1667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-31" target="paRQzdsvZ5kCJrLPlrh8-5">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#6a00ff;strokeColor=#3700CC;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-31" target="paRQzdsvZ5kCJrLPlrh8-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-47" value="电网给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-46">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-47" value="电网给负载" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-46">
           <mxGeometry x="-0.4937" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-31" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Grid电网&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-31" value="&#xa;&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;Grid电网&lt;/span&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="600" width="80" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.692;entryDx=0;entryDy=0;fillColor=#e6d0de;strokeColor=#996185;exitX=1.02;exitY=0.692;exitDx=0;exitDy=0;gradientColor=#d5739d;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-18" target="paRQzdsvZ5kCJrLPlrh8-31">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.692;entryDx=0;entryDy=0;fillColor=#e6d0de;strokeColor=#996185;exitX=1.02;exitY=0.692;exitDx=0;exitDy=0;gradientColor=#d5739d;exitPerimeter=0;entryPerimeter=0;fontStyle=1" edge="1" parent="1" source="paRQzdsvZ5kCJrLPlrh8-18" target="paRQzdsvZ5kCJrLPlrh8-31">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="120" as="sourcePoint" />
             <mxPoint x="360" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="paRQzdsvZ5kCJrLPlrh8-43" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-42">
+        <mxCell id="paRQzdsvZ5kCJrLPlrh8-43" value="电网给电池" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="paRQzdsvZ5kCJrLPlrh8-42">
           <mxGeometry x="0.1667" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
